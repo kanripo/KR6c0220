@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 佛說了義般若波羅蜜多經
+#+DATE: 2015-08-30 19:46:57.072544
+#+PROPERTY: JUAN 0
