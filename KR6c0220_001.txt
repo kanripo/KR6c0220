@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:46:57.268390
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 7:28
 #+TITLE: 佛說了義般若波羅蜜多經
 #+PROPERTY: CBETA_ID T08n0247
 #+PROPERTY: ID KR6c0220
